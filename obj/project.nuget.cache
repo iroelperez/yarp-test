@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TC2SMV1zjyabgH9tCofPt8NbjTLzADADtYDhprWODprmQsOZvhBJLca7SEt502k32Ky40dH1dII0kRddeyAZvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iroel\\source\\local\\ReverseProxyWebApp\\ReverseProxyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iroel\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\iroel\\.nuget\\packages\\yarp.reverseproxy\\2.0.0\\yarp.reverseproxy.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
